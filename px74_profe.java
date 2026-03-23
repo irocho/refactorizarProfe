@@ -4,7 +4,8 @@ public class px74_profe {
         System.out.println("Redución lóxica");
     }
 }
-    void mostrarFoto() {
+
+void mostrarFoto() {
 
     void visualizarDatosRef(String ident, int idade) {
         mostrarFoto();

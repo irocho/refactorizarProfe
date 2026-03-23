@@ -12,7 +12,6 @@
 
 // Redución lóxica
 
-
 /**
  * Mostrar a foto e logo imprime a identidade e idade.
  * 
@@ -25,6 +24,7 @@ void visualizarDatosRef(String ident, int idade) {
     mostrarDatos(ident, idade);
 
 }
+
 /**
  * Imprime a identidade e idade.
  * 
