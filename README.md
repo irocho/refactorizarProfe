@@ -1,4 +1,4 @@
-# Anotacións de refactorizar
+# Anotacións de refactorización
 Para practicar en contornos no 3º trimestre o apartado de refactoring
 ### Chuletas rápidas
 > Lembramos que:
