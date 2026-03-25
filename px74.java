@@ -22,7 +22,6 @@
 void visualizarDatosRef(String ident, int idade) {
     mostrarFoto();
     mostrarDatos(ident, idade);
-
 }
 
 /**
