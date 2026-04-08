@@ -1,5 +1,9 @@
+<img width="128" height="35" alt="logoPK" src="https://github.com/user-attachments/assets/7cf122de-6480-4792-9cd6-646f4af38541"/>
+
 # Anotacións de refactorización
-Para practicar en contornos no 3º trimestre o apartado de refactoring
+
+[Axudámonos con esta páxina de referencia](https://refactoring.guru/refactoring/techniques)
+
 ### Chuletas rápidas
 > Lembramos que:
 
