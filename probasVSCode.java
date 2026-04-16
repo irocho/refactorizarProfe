@@ -21,12 +21,12 @@ public class probasVSCode {
         }
     }
 
-//Caso 3: crear constantes ======================================================
+//Caso 3: Crear constantes ======================================================
     public double getArea(double r) {
         return PI * r * r;
     }
 
-// Caso 4: extraer a método ======================================================
+// Caso 4: Extraer a método ======================================================
     public void extraerMetodo() {
         int altura = 1;
         int base = 2;
