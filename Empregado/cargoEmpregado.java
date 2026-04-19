@@ -1,11 +1,11 @@
 package Empregado;
 
-public class CargoEmpregado {
+public class cargoEmpregado {
     //Non tes que  modificar esta clase para que funcione.
     private String cargo;
     private double eurosPorHora;
 
-    public CargoEmpregado(String t, double eurosPorHora) {
+    public cargoEmpregado(String t, double eurosPorHora) {
         this.cargo = t;
         this.eurosPorHora = eurosPorHora;
     }

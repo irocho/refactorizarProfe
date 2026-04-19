@@ -4,7 +4,7 @@ public class Empregado {
     private String nome;
     private int horas;
     private int horasextra;
-    private CargoEmpregado cargo;
+    private cargoEmpregado cargo;
 
     // Xenera automaticamente un Constructor
 
