@@ -1,6 +1,9 @@
 package Empregado;
 
 public class Main {
+    /**
+     * @see  https://refactoring.guru/move-method
+     */
     public static void main(String[] args) {
 
         // Crea un obxecto da clase CargoEmpregado para cada tipo de cargo
