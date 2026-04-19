@@ -1,6 +1,7 @@
 package Empregado;
 
 public class CargoEmpregado {
+    //Non tes que  modificar esta clase para que funcione.
     private String cargo;
     private double eurosPorHora;
 
@@ -24,4 +25,5 @@ public class CargoEmpregado {
     public void seteurosPorHora(double eurosPorHora) {
         this.eurosPorHora = eurosPorHora;
     }
+
 }
