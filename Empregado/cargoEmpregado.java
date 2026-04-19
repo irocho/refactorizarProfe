@@ -1,27 +1,27 @@
 package Empregado;
 
-public class cargoEmpregado {
+public class CargoEmpregado {
     private String cargo;
-    private double horabase;
+    private double eurosPorHora;
 
-    public cargoEmpregado(String t, double h) {
+    public CargoEmpregado(String t, double eurosPorHora) {
         this.cargo = t;
-        this.horabase = h;
+        this.eurosPorHora = eurosPorHora;
     }
 
     public String getCargo() {
         return cargo;
     }
 
-    public double getHorabase() {
-        return horabase;
+    public double geteurosPorHora() {
+        return eurosPorHora;
     }
 
     public void setCargo(String cargo) {
         this.cargo = cargo;
     }
 
-    public void setHorabase(double horabase) {
-        this.horabase = horabase;
+    public void seteurosPorHora(double eurosPorHora) {
+        this.eurosPorHora = eurosPorHora;
     }
 }
